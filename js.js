@@ -6,7 +6,7 @@ var cities = [
     {name: "Togo", utcOffset: 9, flag: "Togo.png"},
     {name: "Morocco", utcOffset: 3, flag: "morocco.png"},
     {name: "Russia", utcOffset: -3, flag: "Russia.png"},
-    {name: "Nepal", utcOffset: 11, flag: "Australia.png"},
+    {name: "Nepal", utcOffset: 11, flag: "Nepal.png"},
     {name: "Vietnam", utcOffset: -8, flag: "Vietnam.png"},
     {name: "Qatar", utcOffset: 3, flag: "Qatar.png"}
 ];
